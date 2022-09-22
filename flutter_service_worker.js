@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f2103e92c5903d04e0417af4a032bb72",
+  "assets/AssetManifest.json": "af0a79761f113f1ab4783f7b33506eef",
 "assets/assets/icon/icon.png": "6f3a7c96ee3379a9127f43b1ed733867",
 "assets/assets/img/bandera-bn.png": "2325a799e374c1806e15df4326f6d47d",
 "assets/assets/img/bandera-cbb.png": "68b8acea806bd0bdd689ff386f4336e4",
@@ -86,6 +86,10 @@ const RESOURCES = {
 "assets/assets/img/fondos/fondos7.png": "a16106b4ce1b7872f5b1430b11c0a02e",
 "assets/assets/img/fondos/fondos8.png": "69713f0acb9e64766bbb30dfe3510352",
 "assets/assets/img/fondos/fondos9.png": "c8488cd344a1f3a6965b18a43e7cbec1",
+"assets/assets/img/ge0tic-logo-1152x1152.png": "22f660a32f94757711a23c8535dba3d4",
+"assets/assets/img/ge0tic-logo-432x432.png": "0115aac518e7d8f5dd7eefd61903a9be",
+"assets/assets/img/ge0tic-logo-500x500.png": "8d99bf0a391a3c2f3dae2edb56f8429e",
+"assets/assets/img/ge0tic-logo-960x960.png": "8b373652fdc48a2f0001cbf698450807",
 "assets/assets/img/ge0tic-logo.png": "75f41f1f3b40f977260fb23d008db48b",
 "assets/assets/img/icon-atlas-white.png": "efb2f93a50719ec044513a92ec3948d6",
 "assets/assets/img/icon-atlas.png": "aa4a3650d96a3dd72d5e0a001bb458ef",
@@ -160,10 +164,20 @@ const RESOURCES = {
 "icons/Icon-512.png": "966b84ad8d8dd720190adf775c9b8851",
 "icons/Icon-maskable-192.png": "966b84ad8d8dd720190adf775c9b8851",
 "icons/Icon-maskable-512.png": "966b84ad8d8dd720190adf775c9b8851",
-"index.html": "12153078698212cd081fa871f993f7c4",
-"/": "12153078698212cd081fa871f993f7c4",
-"main.dart.js": "41b5612dd620c83db23e3123b62b2457",
+"index.html": "efda1096ec3165891ae27b8e3670bcae",
+"/": "efda1096ec3165891ae27b8e3670bcae",
+"main.dart.js": "fbed4d23678389eca54f19000a792202",
 "manifest.json": "9be1273c1398aff7b8a2ab82412fa07f",
+"splash/img/dark-1x.png": "4a0eacd6838e8ce74a4bcd2469837215",
+"splash/img/dark-2x.png": "a35ce4894c58578bee5453c84a9e46c5",
+"splash/img/dark-3x.png": "8632291e1b9fe0ee1c84d96d2c7cbd96",
+"splash/img/dark-4x.png": "464fa34c903f4bc560af2c9dfac0c4da",
+"splash/img/light-1x.png": "4a0eacd6838e8ce74a4bcd2469837215",
+"splash/img/light-2x.png": "a35ce4894c58578bee5453c84a9e46c5",
+"splash/img/light-3x.png": "8632291e1b9fe0ee1c84d96d2c7cbd96",
+"splash/img/light-4x.png": "464fa34c903f4bc560af2c9dfac0c4da",
+"splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
+"splash/style.css": "2e6df68c18efc965e0beb1b72c5b4ae9",
 "version.json": "11a7c301008705eacc2d36b1c2e00487"
 };
 
